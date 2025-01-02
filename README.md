@@ -38,8 +38,7 @@ Where:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/GantaVenkataKousik/catelog-online-assessment
    ```
 
 2. **Install RapidJSON:**
